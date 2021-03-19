@@ -1,0 +1,22 @@
+From bbfb6df2921987fc257a88f316c5afc3c1a7c690 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Charles=20Magalh=C3=A3es?= <charlesrm29@gmail.com>
+Date: Thu, 18 Mar 2021 22:50:08 -0300
+Subject: [PATCH 1/2] Arquivo .gitattributes add
+
+---
+ .gitattributes | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitattributes
+
+diff --git a/.gitattributes b/.gitattributes
+new file mode 100644
+index 0000000..d9d03be
+--- /dev/null
++++ b/.gitattributes
+@@ -0,0 +1,2 @@
++*.java linguist-language=Java
++*.java linguist-detectable=true
+\ No newline at end of file
+-- 
+2.30.0.windows.2
+
